@@ -1,1 +1,1 @@
-# Calibration Lidar to Camera with C++
+# Calibrate Lidar to Camera with C++
